@@ -76,5 +76,6 @@
         taskInput.value = "";
       }
     </script>
+    <div style="text-align:center"><?php echo date('Y-m-d') ?></div>
   </body>
 </html>
